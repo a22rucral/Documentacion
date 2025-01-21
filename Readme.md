@@ -1,2 +1,2 @@
 # Documentación Indice. 
-1. [Inteligencia Artificial](../IA/inteligenciaArtificial.md)
+1. [Inteligencia Artificial](IA/inteligenciaArtificial.md)
