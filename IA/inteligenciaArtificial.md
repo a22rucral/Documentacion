@@ -1,6 +1,6 @@
-# Inteligencia Artifial. 
-## ¿Que es?
-La inteligencia artificial (IA) es un cmapo de la informática que se centra en el desarrollo de sistemas y programas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas pueden incluir razonamiento, aprendizaje, toma de decisiones, el procesamiento del lenguaje natural, etc. En general hace que las máquinas hagan tareas con un pensamiento humano, haciendo lo más parecido a lo que haría este pero con otro nivel de computación. 
+# Inteligencia Artificial. 
+## ¿Qué es?
+La inteligencia artificial (IA) es un campo de la informática que se centra en el desarrollo de sistemas y programas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas pueden incluir razonamiento, aprendizaje, toma de decisiones, el procesamiento del lenguaje natural, etc. En general hace que las máquinas hagan tareas con un pensamiento humano, haciendo lo más parecido a lo que haría este pero con otro nivel de computación. 
 Esto se logra a través de algoritmos, modelos matemáticos y grandes cantidades de datos que las máquinas utilizan para aprender y mejorar sus capacidades con el tiempo. 
 
 ### Tipos:
@@ -9,7 +9,7 @@ Esto se logra a través de algoritmos, modelos matemáticos y grandes cantidades
 3. Super inteligencia artificial: Hipotética forma de inteligencia que supera a la humana en todos los aspectos. Es más una idea futura que una realidad. 
 
 ### Aplicaciones AI. 
-- Salud: Diagnostico de enfermedades, desarrollo de medicamentos y análisis médicos. 
+- Salud: Diagnóstico de enfermedades, desarrollo de medicamentos y análisis médicos. 
 - Industria: Automatización de procesos, mantenimiento predictivo y robots industriales. 
 - Educación: Personalización del aprendizaje y herramientas interactivas. 
 - Entretenimiento: Recomendaciones de contenido en plataformas como Netflix o Spotify. 
@@ -17,7 +17,7 @@ Esto se logra a través de algoritmos, modelos matemáticos y grandes cantidades
 
 
 ## Ruta de aprendizaje / Conocimientos , Áreas. 
-Aprender IA implica dominar una cobinación de habilidaddes matemáticas, programación, ciencia de datos y teoría en IA. Aquí tienes una ruta de aprendizaje estructurada para convertirte en un experto en IA, con las asignaturas y tecnologías clave, además de consejos y fuentes para estudiarlas. 
+Aprender IA implica dominar una combinación de habilidades matemáticas, programación, ciencia de datos y teoría en IA. Aquí tienes una ruta de aprendizaje estructurada para convertirte en un experto en IA, con las asignaturas y tecnologías clave, además de consejos y fuentes para estudiarlas. 
 
 ### Etapa 1: Fundamentos. [Documentación](etapas/etapa1.md)
 Conocimientos sólidos en matemáticas, programación y fundamentos de informática. 
@@ -25,7 +25,8 @@ Conocimientos sólidos en matemáticas, programación y fundamentos de informát
 1. Matemáticas. 
     - Álgebra lineal: Vectores, matrices, transformaciones lineales. 
     - Cálculo: Derivadas parciales, gradientes y optimización. 
-    - Probabilidad y estadística: Distribuciones, teorema de Bayes, pruebas de hipótesis. 
+    - Probabilidad y estadística: Distribuciones, teorema de Bayes, pruebas de hipótesis.
+
 **Como aprender**
 - [Essence of linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs)
 - Libro : Introduction to Linear ALgebra de Gilbert Strang. 
@@ -36,7 +37,8 @@ Conocimientos sólidos en matemáticas, programación y fundamentos de informát
 2. Programación. 
     - Fundamentos de Python: Variables, bucles, funciones, estructuras de datos.
     - Estructuras de datos y algoritmos básicos. 
-    - Librerías para IA: Numpy, Pandas, Matpolib.
+    - Librerías para IA: Numpy, Pandas, Matplotlib.
+
 **Como aprender**
 - [Automate the boring Stuff with Python](https://automatetheboringstuff.com/)
 - Cursos:
@@ -77,10 +79,10 @@ Conocimientos sólidos en matemáticas, programación y fundamentos de informát
     - [FastAI Practical Deep Learning](https://course.fast.ai/)
 
 ### Etapa 4: Aprendizaje Profundo (Deep learning). [Documentación](etapas/etapa4.md) 
-El parendizaje profundo permite a los sistemas aprender patrones más complejos usando redes neuronales. 
+El aprendizaje profundo permite a los sistemas aprender patrones más complejos usando redes neuronales. 
 1. Redes Neuronales. 
     - Conceptos básicos: Perceptrón, funciones de activación (ReLU, Sigmoid)
-    - Arquitecturas: REdes neuronales convolucionales (CNNS), recurrentes (RNNs), transformers. 
+    - Arquitecturas: Redes neuronales convolucionales (CNNS), recurrentes (RNNs), transformers. 
 2. Framework Populares. 
     - TensorFlow y keras: construcción y entrenamientos de modelos. 
     - Pytorch: Flexibilidad para investigación y desarrollo. 
